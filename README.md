@@ -1,7 +1,7 @@
-# 🧭 Weekly Insights and Scans
+# 🧭 Weekly Insights
 
 **Description:**  
-This repository serves as a living knowledge base of technical reflections, AI and security commentary, and vulnerability assessment summaries.
+This repository serves as a living knowledge base of technical reflections, AI and security commentary.
 
 ---
 
